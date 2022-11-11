@@ -40,7 +40,7 @@ body{
 }
 
 #showcase{
-    background-image: url("..\exerCssBasics\mywebsite\images\showcase.jpg");
+    background-image: url("showcase.jpg");
     background-position: center right;
     min-height: 300px; /*makes the size responsive with shrinking/expanding*/
 }
